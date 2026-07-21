@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment Project
 
 This repository contains a React frontend and an Express backend for an event management application with JWT authentication.
@@ -67,3 +68,6 @@ Create `.env` in `backend/` with the following values:
 The frontend uses the following env value in `frontend/.env`:
 
 - `VITE_API_URL` - backend API base URL
+=======
+# test_management
+>>>>>>> 1b1072f1f020b77c6344c40a6d948a1453b2f09c
